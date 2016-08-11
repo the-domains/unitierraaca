@@ -1,7 +1,7 @@
 name: unitierraaca
 favicon: null
-layout_spectrum: 0.649467563489452
-typography_spectrum: 0.92835554596968
+layout_spectrum: 1
+typography_spectrum: 0.70836
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.2340934667736292
-  lightness: 0.8094572604168206
-  saturation: 0.4162090972531587
-  rhythmicContrast: 0.285812112968415
+    - '#000000'
+    - '#fefefc'
+    - '#fdba29'
+    - '#dc3923'
+    - '#1f6da0'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
