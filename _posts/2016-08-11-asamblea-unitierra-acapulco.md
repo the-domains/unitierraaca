@@ -5,19 +5,22 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Asamblea Unitierra "Acapulco" '
-datePublished: '2016-08-11T15:59:17.714Z'
-dateModified: '2016-08-11T15:59:05.269Z'
+datePublished: '2016-08-11T16:06:06.757Z'
+dateModified: '2016-08-11T16:02:09.351Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-11-asamblea-unitierra-acapulco.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-11-asamblea-unitierra-acapulco.md
 url: asamblea-unitierra-acapulco/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3fc7563-4e60-44fa-92d2-50f0ada9d955.jpg)
+Asamblea Unitierra "Acapulco" 
 
-Asamblea Unitierra "Acapulco"
+Queremos Un mundo donde quepan muchos mundos, aprender haciendo.
+
+Listos pal mitote :)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/738ab6fc-654e-498d-9bf8-4540e577c88e.jpg)
